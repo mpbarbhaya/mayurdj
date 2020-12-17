@@ -1,2 +1,2 @@
 # mayurdj
-django
+django-test
